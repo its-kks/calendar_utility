@@ -53,7 +53,6 @@ void calendar(int month,int year)
         odd_day=7;
     }
 
-    printf("%dHello",odd_day);
     int count=1,date=1;
     char *ar[]={"JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG",\
     "SEP","OCT","NOV","DEC"};

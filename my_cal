@@ -1,3 +1,3 @@
 #!/bin/bash
 echo -e "Press Ctrl+C to exit:\n"
-./c_calendar
+/usr/local/bin/c_calendar
